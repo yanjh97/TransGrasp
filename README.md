@@ -203,7 +203,7 @@ Then, you can run the commands below to generate grasp poses following the proce
 
 ## Acknowledgments
 
-This repo is based on [DIF-Net](https://github.com/microsoft/DIF-Net), [PointNet](https://github.com/charlesq34/pointnet), and [object-deformnet](https://github.com/mentian/object-deformnet). We thanks for their excellent works.
+This repo is based on [DIF-Net](https://github.com/microsoft/DIF-Net), [PointNet](https://github.com/charlesq34/pointnet), and [object-deformnet](https://github.com/mentian/object-deformnet).
 
 ## Citation
 
