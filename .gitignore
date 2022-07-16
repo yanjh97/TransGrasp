@@ -1,0 +1,14 @@
+.vscode/
+*__pycache__/
+datasets/
+grasp_data/
+isaac_sim/assets/
+DIF_decoder/logs/
+DIF_decoder/recon/
+DIF_decoder/eval/
+shape_encoder/output/
+pose_estimator/output/
+grasp_transfer/refine.pth
+trimesh_logs.log
+*.ply
+isaac_sim/results*

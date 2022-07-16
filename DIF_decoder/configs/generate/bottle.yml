@@ -1,0 +1,8 @@
+experiment_name: bottle
+checkpoint_path: DIF_decoder/logs/bottle/checkpoints/model.pth
+num_instances: 940
+latent_dim: 128
+model_type: sine
+hidden_num: 128
+hyper_hidden_layers: 1
+hyper_hidden_features: 256

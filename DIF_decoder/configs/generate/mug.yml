@@ -1,0 +1,8 @@
+experiment_name: mug
+checkpoint_path: DIF_decoder/logs/mug/checkpoints/model.pth
+num_instances: 765
+latent_dim: 128
+model_type: sine
+hidden_num: 128
+hyper_hidden_layers: 1
+hyper_hidden_features: 256
