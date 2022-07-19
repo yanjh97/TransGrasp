@@ -1,13 +1,11 @@
 <p align="center">
-    <p align="center"><font size=5>TransGrasp: Grasp Pose Estimation of a Category of Objects by <br />
-Transferring Grasps from Only One Labeled Instance</font><br />
-    Hongtao Wen*, Jianhang Yan*, Wanli Peng&dagger;, Yi Sun<br />
+    <h2 align="center">TransGrasp: Grasp Pose Estimation of a Category of Objects by <br />
+Transferring Grasps from Only One Labeled Instance</h2>
+    <p align="center">Hongtao Wen*, Jianhang Yan*, Wanli Peng&dagger;, Yi Sun<br />
     Dalian University of Technology<br />
     * equal contributions  &dagger; corresponding author<br />
     <a href='https://sites.google.com/view/transgrasp'>project page</a> | <a href='https://arxiv.org/abs/2207.07861'>arXiv</a>
-    </p>
 </p>
-
 
 This is the official repo of "TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance" (ECCV 2022).  
 
