@@ -1,5 +1,5 @@
 batch_size: 40
-epochs: 100
+epochs: 50
 epochs_til_checkpoint: 5
 expand: -1
 experiment_name: bottle

@@ -155,7 +155,7 @@ Additionally, please download the `assets` we used for Isaac Gym ([Google](https
 
 Then, you can run the commands below to generate grasp poses following the procedures in our paper.
 
-1. **Grasp Representation.**  Run the following command to convert grasp represetation, filter source grasps and transfer grasps on source model to the Template Field.
+1. **Grasp Representation.**  Run the following command to convert grasp representation, filter source grasps and transfer grasps on source model to the Template Field.
 
     ```shell
     sh scripts/preprocess_source_grasps.sh mug

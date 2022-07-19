@@ -33,7 +33,6 @@ def write_train_pkl(obj_list_path, meta, output_dir, cate):
 
 def write_eval_pkl(obj_list_path, meta, output_dir, cate):
     obj_list = read_obj_list(obj_list_path)
-    assert len(obj_list)==len(os.listdir('DIF_decoder/eval/{0}'.format(meta['experiment_name'])))
     pkl_info={}
     for i in range(len(obj_list)):
         shape_code = np.loadtxt(os.path.join('DIF_decoder/eval/{0}'.format(meta['experiment_name']), 
