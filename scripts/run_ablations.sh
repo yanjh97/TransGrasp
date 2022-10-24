@@ -1,6 +1,9 @@
 category=$1
 exp_name=$2
 
+# ENCODER_MODEL_PATH=./shape_encoder/output/${category}/checkpoints/model_best.pth
+# python grasp_transfer/transfer_main.py --category ${category} --shape_model_path ${ENCODER_MODEL_PATH}
+# python grasp_transfer/refine_main.py --category ${category}
 ### Direct Mapping + Refine.
 python grasp_transfer/refine_main.py --category ${category} --dm
 

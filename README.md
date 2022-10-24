@@ -4,7 +4,7 @@ Transferring Grasps from Only One Labeled Instance</h2>
     <p align="center">Hongtao Wen*, Jianhang Yan*, Wanli Peng&dagger;, Yi Sun<br />
     Dalian University of Technology<br />
     * equal contributions  &dagger; corresponding author<br />
-    <a href='https://sites.google.com/view/transgrasp'>project page</a> | <a href='https://arxiv.org/abs/2207.07861'>arXiv</a>
+    <a href='https://sites.google.com/view/transgrasp'>project page</a> | <a href='https://arxiv.org/abs/2207.07861'>arXiv</a> | <a href='https://link.springer.com/chapter/10.1007/978-3-031-19842-7_26'>Springer Link</a> | <a href='https://www.youtube.com/watch?v=gIftKDTnEW0'>Youtube</a>
 </p>
 
 This is the official repo of "TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance" (ECCV 2022).  

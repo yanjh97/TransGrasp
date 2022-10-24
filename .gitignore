@@ -2,6 +2,7 @@
 *__pycache__/
 datasets/
 grasp_data/
+temp/
 isaac_sim/assets/
 DIF_decoder/logs/
 DIF_decoder/recon/
@@ -12,3 +13,4 @@ grasp_transfer/refine.pth
 trimesh_logs.log
 *.ply
 isaac_sim/results*
+*xlsx
