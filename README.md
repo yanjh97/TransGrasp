@@ -232,13 +232,14 @@ This repo is based on [DIF-Net](https://github.com/microsoft/DIF-Net), [PointNet
 
 ```BibTeX
 @inproceedings{wen2022transgrasp,
-  title={TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance},
+  title={TransGrasp: Grasp pose estimation of a category of objects by transferring grasps from only one labeled instance},
   author={Wen, Hongtao and Yan, Jianhang and Peng, Wanli and Sun, Yi},
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-  year={2022}
+  booktitle={European Conference on Computer Vision},
+  pages={445-461},
+  year={2022},
+  organization={Springer}
 }
 ```
-
 ## License
 
 Our code is released under [MIT License](./LICENSE).
