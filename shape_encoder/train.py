@@ -90,8 +90,8 @@ def train():
 
                     writer.add_scalar("train/loss_code", loss_code_sum / opt.logger_freq, train_count)
 
-                loss_code_sum = 0.0
-                total_loss_sum = 0.0
+                    loss_code_sum = 0.0
+                    total_loss_sum = 0.0
 
             net.eval()
             test_count = 0
